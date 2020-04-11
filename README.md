@@ -4,7 +4,7 @@ I keept track of a number of metrics in my life for about a year (258 days). It 
 
 The goal of measuring a number of factors was sucessful; meaningful information on what helped me improve was not successful.
 
-[You can read a blog post about my findings.](www.graysonricketts.com/post/personal-metrics)
+[You can read a blog post about my findings.](https://www.graysonricketts.com/post/personal-metrics)
 
 ## Installation
 I recommend setting up a virtual environment
