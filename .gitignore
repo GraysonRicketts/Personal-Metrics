@@ -2,3 +2,5 @@ metrics-analysis/bin/
 metrics-analysis/etc/  
 metrics-analysis/lib/
 metrics-analysis/share/
+metrics-analysis/.ipynb_checkpoints/
+metrics-analysis/pyvenv.cfg
